@@ -1,0 +1,10 @@
+/Users/arthurmonteiroalvesmelo/Pratice/rust/the_guessing_game/target/debug/deps/rand_core-ff712368125494ab.rmeta: /Users/arthurmonteiroalvesmelo/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.3/src/lib.rs /Users/arthurmonteiroalvesmelo/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.3/src/block.rs /Users/arthurmonteiroalvesmelo/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.3/src/error.rs /Users/arthurmonteiroalvesmelo/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.3/src/impls.rs /Users/arthurmonteiroalvesmelo/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.3/src/le.rs /Users/arthurmonteiroalvesmelo/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.3/src/os.rs
+
+/Users/arthurmonteiroalvesmelo/Pratice/rust/the_guessing_game/target/debug/deps/rand_core-ff712368125494ab.d: /Users/arthurmonteiroalvesmelo/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.3/src/lib.rs /Users/arthurmonteiroalvesmelo/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.3/src/block.rs /Users/arthurmonteiroalvesmelo/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.3/src/error.rs /Users/arthurmonteiroalvesmelo/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.3/src/impls.rs /Users/arthurmonteiroalvesmelo/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.3/src/le.rs /Users/arthurmonteiroalvesmelo/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.3/src/os.rs
+
+/Users/arthurmonteiroalvesmelo/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.3/src/lib.rs:
+/Users/arthurmonteiroalvesmelo/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.3/src/block.rs:
+/Users/arthurmonteiroalvesmelo/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.3/src/error.rs:
+/Users/arthurmonteiroalvesmelo/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.3/src/impls.rs:
+/Users/arthurmonteiroalvesmelo/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.3/src/le.rs:
+/Users/arthurmonteiroalvesmelo/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.3/src/os.rs:
